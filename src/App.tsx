@@ -105,7 +105,7 @@ function App() {
       <form
         noValidate
         onSubmit={handleSubmit}
-        className="w-11/12 max-w-[46rem] bg-white text-grey-dark p-6 rounded-2xl"
+        className="w-11/12 max-w-[46rem] bg-white text-grey-dark p-6 rounded-2xl sm:p-10"
       >
         <h1 className="text-grey-dark text-3xl font-bold mb-8">Contact Us</h1>
         <div className="flex flex-col gap-6">
